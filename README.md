@@ -58,10 +58,10 @@ The dataset underwent **comprehensive data cleaning and preprocessing** to ensur
 
 **3. Subscribers by Level:** Majority of learners are Beginner Level (4.1M), highlighting Udemy’s role as an entry point for new learners.
 
-**4. Paid vs Free Subscribers:** Paid: 30.52%, Free: 69.48%
-- While most users access free content, paid courses contribute heavily to total revenue.
+**4. Paid vs Free Subscribers:** Free: 30.52%, Paid: 69.48%
+- Most users access paid content which contribute heavily to total revenue.
 
-**5. Revenue by Year:** Rapid growth observed between 2014–2016, peaking at 315M in 2016 before a decline in 2017.
+**5. Revenue by Year:** Rapid growth observed between 2014–2016, peaking at 315M in 2015.
 - Indicates a potential saturation or market shift after the peak period.
 
 **6. Subscribers by Course:** The “Learn HTML5 Programming” course leads with 269K subscribers, followed by “Coding for Entrepreneurs” and “The Web Developer Bootcamp.”
