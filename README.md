@@ -95,6 +95,8 @@ To evaluate **Udemy’s content performance trends** by analyzing course-level d
 ## 👩‍💻 Author
 **Puseletso Motsoari**  
 *Data Analyst*  
-📧 [motsoaripuseletso8@gmail.com]  
-📅 *Created: [November, 2025]*
+
+📧 Email: motsoaripuseletso8@gmail.com  
+🔗 GitHub: https://github.com/Puseletso10 
+💼 LinkedIn: www.linkedin.com/in/puseletso-motsoari 
 
